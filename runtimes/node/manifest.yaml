@@ -11,4 +11,4 @@ package:
   namespace: _
   actions:
     helloworld:
-      location: actions/helloworld.js
+      function: actions/helloworld.js

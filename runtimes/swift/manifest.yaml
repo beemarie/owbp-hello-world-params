@@ -11,4 +11,4 @@ package:
   namespace: _
   actions:
     helloworld:
-      location: actions/helloworld.swift
+      function: actions/helloworld.swift
