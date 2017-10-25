@@ -6,9 +6,9 @@
 
 packages:
   $PACKAGE_NAME:
-  version: 1.0
-  license: Apache-2.0
-  namespace: _
-  actions:
-    helloworld:
-      function: actions/helloworld.js
+    version: 1.0
+    license: Apache-2.0
+    namespace: _
+    actions:
+      helloworld:
+        function: actions/helloworld.js
